@@ -1,0 +1,8 @@
+{
+    "name": "cnn",
+    "cnn_activation": "elu",
+    "strides": 1,
+    "kernel_size": 16,
+    "padding": "same",
+    "cnn_layers": 8
+}

@@ -1,0 +1,6 @@
+{
+    "name": "attention",
+    "attention_activation": "elu",
+    "heads_num": 16,
+    "attention_layers": 4
+} 
